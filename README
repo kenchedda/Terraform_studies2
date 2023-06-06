@@ -1,0 +1,47 @@
+
+
+/*
+Name: How to create AWS EC2 Auto-Scaling Group for High Availability using Terraform? 
+Description: AWS Infrastructure Buildout with Terraform
+Contributor: kenneth
+*/
+/* This Terraform code is the main set of the configuration, we will use Terraform to create an autoscaling group that 
+can automatically scale our EC2 instances up or down based on demand. Create a new VPC with a CIDR block and name.
+Then create 2 public and 2 private subnets. The IP CIDR information is in the variables.tf file. This makes the file 
+reusable. Use the data block in the providers.tf file to pull availability zone information for both sets of subnets.
+Terraform's Infrastructure as code (IaC) to automate the creation and management of our AWS resources. This will allow 
+us to spend less time managing infrastructure and more time to developing our applications.
+*/
+/*Terraform's Infrastructure as code (IaC) to automate the creation and management of our AWS resources. This will 
+allow us to spend less time managing infrastructure and more time to developing our applications.
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
